@@ -19,7 +19,7 @@ My interests include **A/B testing, causal inference, statistical inference, mac
 ### 💼 Professional Experience
 
 **T-Bank | Product Analyst (DA/DS)**  
-*Shopping SuperApp | Current position*  
+*Shopping SuperApp | Nov 2026 – Present*  
 Product analytics and data-driven decision-making for the Shopping SuperApp product.
 
 **Gazprom CPS | Analyst Intern**  
@@ -44,21 +44,10 @@ A/B Testing | Bootstrap | CUPED | Causal Inference | SARIMAX | SVAR
 **Tools & BI**  
 ![Git](https://img.shields.io/badge/Git-242C38?style=flat-square&logo=git&logoColor=79C0FF) ![Docker](https://img.shields.io/badge/Docker-242C38?style=flat-square&logo=docker&logoColor=79C0FF) ![Jupyter](https://img.shields.io/badge/Jupyter-242C38?style=flat-square&logo=jupyter&logoColor=79C0FF) ![Power BI](https://img.shields.io/badge/Power_BI-242C38?style=flat-square&logo=powerbi&logoColor=79C0FF) ![Tableau](https://img.shields.io/badge/Tableau-242C38?style=flat-square&logo=tableau&logoColor=79C0FF) ![Redash](https://img.shields.io/badge/Redash-242C38?style=flat-square)
 
-### 📌 Selected Projects
-
-**[A/B Testing Pipeline](https://github.com/vladimirrsmirnovv/AB_pipeline)**  
-Experiment design, group splitting, A/A validation, and statistical hypothesis testing.
-
-**[X5 Tech Contest — Retail Forecasting](https://github.com/vladimirrsmirnovv/X5_Tech_Contest_Time_Series)**  
-Retail turnover forecasting using machine learning and time-series methods.
-
-**[MOEX Forecasting Research](https://github.com/vladimirrsmirnovv/MOEX_research_paper)**  
-Comparative study of ARIMA-family models and machine-learning approaches for forecasting the Russian stock market.
-
 ### 🏆 Data Science Competitions
 
-- **X5 Tech × HSE — Growth Gradient (2026):** finalist | **8th / 210** teams
-- **Ozon Tech — E-CUP Students (2026):** search user value track | **20th / 312** (public) | **33rd / 312** (private)
+- **X5 Tech × HSE – Growth Gradient (2026):** finalist | **8th / 210** teams
+- **Ozon Tech – E-CUP Students (2026):** search user value track | **20th / 312** (public) | **33rd / 312** (private)
 - **Banana Capital Fund Hackathon (2025):** **winner** | Financial market price movement forecasting track
 
 ### 🎓 Education
@@ -86,18 +75,18 @@ Comparative study of ARIMA-family models and machine-learning approaches for for
 **Data Science & Analytics training**  
 Probability and Statistics | A/B Testing | Machine Learning | Applied Data Analytics
 
-#### Additional Training
+#### Selected Courses & Training
 
-- **T-Bank | Risk Analytics Intensive** — 2026
-- **MIPT | Applied Data Analytics Programme** — 2025
-- **Yandex School of Data Analysis | Machine Learning 1 practice sessions** — 2025
-- **Yandex School of Data Analysis | A/B Week** — 2025
+- **T-Bank | Risk Analytics Intensive** – 2026
+- **MIPT | Applied Data Analytics Programme** – 2025
+- **Yandex School of Data Analysis | Machine Learning 1 practice sessions** – 2025
+- **Yandex School of Data Analysis | A/B Week** – 2025
 
 ### 📈 GitHub Activity
 
 <div align="center">
 
-<img width="560" src="https://streak-stats.demolab.com/?user=vladimirrsmirnovv&amp;theme=dark&amp;background=0D1117&amp;border=30363D&amp;stroke=384454&amp;ring=3269A8&amp;fire=F0F6FC&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=F0F6FC&amp;sideLabels=E6EDF3&amp;dates=B8C7D9&amp;card_width=560&amp;card_height=200&amp;disable_animations=true" alt="GitHub contribution streak" />
+<img width="560" src="https://streak-stats.demolab.com/?user=vladimirrsmirnovv&amp;theme=dark&amp;background=0D1117&amp;border=60738A&amp;stroke=53667B&amp;ring=4999E8&amp;fire=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=79C0FF&amp;sideLabels=E6EDF3&amp;dates=CCD6E2&amp;card_width=560&amp;card_height=200&amp;disable_animations=true" alt="GitHub contribution streak" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=vladimirrsmirnovv&amp;style=flat-square&amp;color=1F6FEB&amp;label=Profile+views" alt="Profile views" />
