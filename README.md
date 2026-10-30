@@ -28,7 +28,7 @@ Product analytics and data-driven decision-making for the Shopping SuperApp prod
 **HSE University | Teaching Assistant**  
 *Faculty of Economic Sciences | Sep–Dec 2026*  
 *Master's Programme in Economics and Economic Policy*  
-**Course:** [Course page](https://www.hse.ru/ma/economicpolicy/courses/1163592263.html)
+**Course:** [Advanced Econometrics I](https://www.hse.ru/ma/economicpolicy/courses/1163592263.html)
 
 - Reviewed and assessed student projects as part of the course.
 - Assisted in organizing and conducting course-related educational activities.
