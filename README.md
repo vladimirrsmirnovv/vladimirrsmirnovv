@@ -1,30 +1,50 @@
 # Vladimir Smirnov
 
-## Product Analyst at T-Bank
+## 💼 Product Analyst (DA/DS) at T-Bank
 
-**Shopping SuperApp** · *Current position*
+**Shopping SuperApp** | *Current role*
 
-A/B Testing & Causal Inference · Machine Learning & Deep Learning · Econometrics · Time Series
+A/B Testing & Causal Inference | Machine Learning & Deep Learning | Econometrics | Time Series
 
-[Email](mailto:smirnovve2003@gmail.com) · [Telegram](https://t.me/vladimirrsmirnovv)
+[Email](mailto:smirnovve2003@gmail.com) | [Telegram](https://t.me/vladimirrsmirnovv)
 
 ---
 
-### About
+### 👤 About
 
-I'm a Product Analyst at **T-Bank**, working on **Shopping SuperApp**. My background combines data science, statistics, and econometrics, with a focus on applying quantitative methods to product and business decision-making.
+I'm a Product Analyst (DA/DS) at **T-Bank**, working on **Shopping SuperApp**. My background combines data science, statistics, and econometrics, with a focus on applying quantitative methods to product and business decision-making.
 
 My interests include **A/B testing, causal inference, statistical inference, machine learning, deep learning, and time-series forecasting**.
 
-### Technical Skills
+### 💼 Professional Experience
 
-**Programming:** `Python` · `SQL` · `R`  
-**Data Analysis:** `pandas` · `NumPy` · `SciPy` · `statsmodels` · `Matplotlib` · `Seaborn`  
-**Machine Learning & DL:** `scikit-learn` · `CatBoost` · `LightGBM` · `XGBoost` · `PyTorch`  
-**Statistics & Econometrics:** `A/B Testing` · `Bootstrap` · `CUPED` · `Causal Inference` · `SARIMAX` · `SVAR`  
-**Tools & BI:** `Git` · `Docker` · `Jupyter` · `Power BI` · `Tableau` · `Redash`
+**T-Bank | Product Analyst (DA/DS)**  
+*Shopping SuperApp | Current position*  
+Product analytics and data-driven decision-making for the Shopping SuperApp product.
 
-### Selected Projects
+**Gazprom CPS | Analyst Intern**  
+*June–September 2024*  
+- Designed an analytical workflow and project specifications for assessing how production parameters relate to weld-joint quality using linear models.
+- Prepared data with Python and Excel, interpreted model results, documented the research findings, and coordinated implementation with the technical team.
+
+### 🛠️ Technical Skills
+
+**Programming**  
+![Python](https://img.shields.io/badge/Python-242C38?style=flat-square&logo=python&logoColor=79C0FF) ![SQL](https://img.shields.io/badge/SQL-242C38?style=flat-square&logoColor=79C0FF) ![R](https://img.shields.io/badge/R-242C38?style=flat-square&logo=r&logoColor=79C0FF)
+
+**Data Analysis & Visualization**  
+![pandas](https://img.shields.io/badge/pandas-242C38?style=flat-square&logo=pandas&logoColor=79C0FF) ![NumPy](https://img.shields.io/badge/NumPy-242C38?style=flat-square&logo=numpy&logoColor=79C0FF) ![SciPy](https://img.shields.io/badge/SciPy-242C38?style=flat-square&logo=scipy&logoColor=79C0FF) ![statsmodels](https://img.shields.io/badge/statsmodels-242C38?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-242C38?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-242C38?style=flat-square)
+
+**Machine Learning & Deep Learning**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-242C38?style=flat-square&logo=scikitlearn&logoColor=79C0FF) ![CatBoost](https://img.shields.io/badge/CatBoost-242C38?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-242C38?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-242C38?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-242C38?style=flat-square&logo=pytorch&logoColor=79C0FF)
+
+**Statistics & Econometrics**  
+A/B Testing | Bootstrap | CUPED | Causal Inference | SARIMAX | SVAR
+
+**Tools & BI**  
+![Git](https://img.shields.io/badge/Git-242C38?style=flat-square&logo=git&logoColor=79C0FF) ![Docker](https://img.shields.io/badge/Docker-242C38?style=flat-square&logo=docker&logoColor=79C0FF) ![Jupyter](https://img.shields.io/badge/Jupyter-242C38?style=flat-square&logo=jupyter&logoColor=79C0FF) ![Power BI](https://img.shields.io/badge/Power_BI-242C38?style=flat-square&logo=powerbi&logoColor=79C0FF) ![Tableau](https://img.shields.io/badge/Tableau-242C38?style=flat-square&logo=tableau&logoColor=79C0FF) ![Redash](https://img.shields.io/badge/Redash-242C38?style=flat-square)
+
+### 📌 Selected Projects
 
 **[A/B Testing Pipeline](https://github.com/vladimirrsmirnovv/AB_pipeline)**  
 Experiment design, group splitting, A/A validation, and statistical hypothesis testing.
@@ -35,49 +55,52 @@ Retail turnover forecasting using machine learning and time-series methods.
 **[MOEX Forecasting Research](https://github.com/vladimirrsmirnovv/MOEX_research_paper)**  
 Comparative study of ARIMA-family models and machine-learning approaches for forecasting the Russian stock market.
 
-### Data Science Competitions
+### 🏆 Data Science Competitions
 
-- **X5 Tech × HSE — Growth Gradient (2026):** finalist, **8th / 210** teams.
-- **Ozon Tech — E-CUP Students (2026):** search user value track, **20th / 312** (public) and **33rd / 312** (private leaderboard).
-- **Banana Capital Fund Hackathon (2025):** **winner**, financial market price movement forecasting track.
+- **X5 Tech × HSE — Growth Gradient (2026):** finalist | **8th / 210** teams
+- **Ozon Tech — E-CUP Students (2026):** search user value track | **20th / 312** (public) | **33rd / 312** (private)
+- **Banana Capital Fund Hackathon (2025):** **winner** | Financial market price movement forecasting track
 
-### Education
+### 🎓 Education
 
-**HSE University** · Master's studies · **2025–present** (expected 2027)
+#### HSE University | 2025–present (expected 2027)
 
 **Faculty of Economic Sciences**  
-*Economics and Economic Policy*  
+**Master's programme:** Economics and Economic Policy  
 **Track:** Quantitative Methods in Economics and Finance  
-**Selected coursework:** Time Series Analysis · Advanced Econometrics I–III · Machine Learning in Economic Research
+*Selected coursework:* Time Series Analysis | Advanced Econometrics I–III | Machine Learning in Economic Research
 
 **Faculty of Computer Science**  
-*Financial Technologies and Data Analysis* · Individual study plan  
-**Selected coursework:** Deep Learning · Bayesian Methods for Data Analysis · Stochastic Processes and Stochastic Differential Equations · Reinforcement Learning
+**Master's programme:** Financial Technologies and Data Analysis  
+**Study format:** Individual study plan  
+*Selected coursework:* Deep Learning | Bayesian Methods for Data Analysis | Stochastic Processes and Stochastic Differential Equations | Reinforcement Learning
 
-**St. Petersburg State University · Graduate School of Management** · **2021–2025**  
-**BSc in Financial Management** · GPA: 4.5/5.0  
+#### St. Petersburg State University | 2021–2025
+
+**Graduate School of Management**  
+**Bachelor's degree:** Financial Management | **GPA:** 4.5/5.0  
 **Thesis:** Comparative analysis of ARIMA-family models and machine-learning algorithms for forecasting the Russian stock market.
 
-### MTS School of Data Analysis
+#### MTS School of Data Analysis | 2025
 
-**MTS School of Data Analysis** · **2025**  
-Training in probability and statistics, A/B testing, machine learning, and applied data analytics.
+**Data Science & Analytics training**  
+Probability and Statistics | A/B Testing | Machine Learning | Applied Data Analytics
 
-### Additional Training
+#### Additional Training
 
-- **T-Bank — Risk Analytics Intensive** · 2026
-- **MIPT — Applied Data Analytics Programme** · 2025
-- **Yandex School of Data Analysis — Machine Learning 1 practice sessions** · 2025
-- **Yandex School of Data Analysis — A/B Week** · 2025
+- **T-Bank | Risk Analytics Intensive** — 2026
+- **MIPT | Applied Data Analytics Programme** — 2025
+- **Yandex School of Data Analysis | Machine Learning 1 practice sessions** — 2025
+- **Yandex School of Data Analysis | A/B Week** — 2025
 
-### GitHub Activity
+### 📈 GitHub Activity
 
 <div align="center">
 
-<img width="560" src="https://streak-stats.demolab.com/?user=vladimirrsmirnovv&amp;theme=dark&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=3FB950&amp;currStreakNum=F0F6FC&amp;sideNums=F0F6FC&amp;currStreakLabel=3FB950&amp;sideLabels=79C0FF&amp;dates=AAB6C2&amp;card_width=560&amp;card_height=200&amp;disable_animations=true" alt="GitHub contribution streak" />
+<img width="560" src="https://streak-stats.demolab.com/?user=vladimirrsmirnovv&amp;theme=dark&amp;background=0D1117&amp;border=30363D&amp;stroke=384454&amp;ring=3269A8&amp;fire=F0F6FC&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=F0F6FC&amp;sideLabels=E6EDF3&amp;dates=B8C7D9&amp;card_width=560&amp;card_height=200&amp;disable_animations=true" alt="GitHub contribution streak" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vladimirrsmirnovv&amp;style=flat-square&amp;color=3FB950&amp;label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vladimirrsmirnovv&amp;style=flat-square&amp;color=1F6FEB&amp;label=Profile+views" alt="Profile views" />
 </p>
 
 </div>
