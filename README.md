@@ -25,10 +25,10 @@ My interests include **A/B testing, causal inference, statistical inference, mac
 *Shopping SuperApp | Nov 2026 – Present*  
 Product analytics and data-driven decision-making for the Shopping SuperApp product.
 
-**Gazprom CPS | Analyst Intern**  
-*June–September 2024*  
-- Designed an analytical workflow and project specifications for assessing how production parameters relate to weld-joint quality using linear models.
-- Prepared data with Python and Excel, interpreted model results, documented the research findings, and coordinated implementation with the technical team.
+**[Gazprom CPS | Analyst Intern](https://github.com/vladimirrsmirnovv/Gazprom_CPS_LLC)**  
+*June–August 2024*  
+- Developed an analytical pipeline and drafted project specifications for investigating causal relationships between production parameters and weld-joint quality using linear models.
+- Prepared datasets with Python and Excel, monitored technical implementation, interpreted findings, and authored an [empirical research report](https://github.com/vladimirrsmirnovv/Gazprom_CPS_LLC/blob/main/%D0%93%D0%90%D0%97%D0%9F%D0%A0%D0%9E%D0%9C_%D0%A6%D0%9F%D0%A1_%D0%AD%D0%9C%D0%9F%D0%98%D0%A0%D0%98%D0%A7%D0%95%D0%A1%D0%9A%D0%9E%D0%95_%D0%98%D0%A1%D0%A1%D0%9B%D0%95%D0%94%D0%9E%D0%92%D0%90%D0%9D%D0%98%D0%95_%D0%A1%D0%9C%D0%98%D0%A0%D0%9D%D0%9E%D0%92_%D0%92%D0%95.pdf).
 
 ### 🛠️ Technical Skills
 
@@ -42,16 +42,16 @@ Product analytics and data-driven decision-making for the Shopping SuperApp prod
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-242C38?style=flat-square&logo=scikitlearn&logoColor=79C0FF) ![CatBoost](https://img.shields.io/badge/CatBoost-242C38?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-242C38?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-242C38?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-242C38?style=flat-square&logo=pytorch&logoColor=79C0FF)
 
 **Statistics & Econometrics**  
-A/B Testing | Bootstrap | CUPED | Causal Inference | SARIMAX | SVAR
+🧪 **Experimentation:** [A/B Testing](https://github.com/vladimirrsmirnovv/AB_pipeline) | Bootstrap | CUPED | Causal Inference  
+📈 **Time Series:** SARIMAX | SVAR
 
 **Tools & BI**  
 ![Git](https://img.shields.io/badge/Git-242C38?style=flat-square&logo=git&logoColor=79C0FF) ![Docker](https://img.shields.io/badge/Docker-242C38?style=flat-square&logo=docker&logoColor=79C0FF) ![Jupyter](https://img.shields.io/badge/Jupyter-242C38?style=flat-square&logo=jupyter&logoColor=79C0FF) ![Power BI](https://img.shields.io/badge/Power_BI-242C38?style=flat-square&logo=powerbi&logoColor=79C0FF) ![Tableau](https://img.shields.io/badge/Tableau-242C38?style=flat-square&logo=tableau&logoColor=79C0FF) ![Redash](https://img.shields.io/badge/Redash-242C38?style=flat-square)
 
 ### 🏆 Data Science Competitions
 
-- **Growth Gradient: X5 Tech × HSE (2026):** Finalist | **8th / 210 teams**
+- **[Growth Gradient: X5 Tech × HSE](https://github.com/vladimirrsmirnovv/X5_Tech_Contest_Time_Series) (2026):** Finalist | **8th / 210 teams**
 - **E-CUP Students: Ozon Tech (2026):** Search User Value track | **Public leaderboard: 20th / 312** | **Private leaderboard: 33rd / 312**
-- **Banana Capital Fund Hackathon (2025):** **Winner** | Financial market price movement forecasting track
 
 ### 🎓 Education
 
@@ -60,7 +60,8 @@ A/B Testing | Bootstrap | CUPED | Causal Inference | SARIMAX | SVAR
 **Faculty of Economic Sciences**  
 **Master's programme:** Economics and Economic Policy  
 **Track:** Quantitative Methods in Economics and Finance  
-*Selected coursework:* Time Series Analysis | Advanced Econometrics I–III | Machine Learning in Economic Research
+*Selected coursework:* [Time Series Analysis](https://github.com/vladimirrsmirnovv/Time_Series_ARIMA_GARCH_Markov_Switching) | [Advanced Econometrics I–III](https://github.com/vladimirrsmirnovv/Econometrics_Advanced) | Machine Learning in Economic Research  
+*Related research:* [FAVAR framework replication](https://github.com/vladimirrsmirnovv/FAVAR_paper_replication)
 
 **Faculty of Computer Science**  
 **Master's programme:** Financial Technologies and Data Analysis  
@@ -71,16 +72,15 @@ A/B Testing | Bootstrap | CUPED | Causal Inference | SARIMAX | SVAR
 
 **Graduate School of Management**  
 **Bachelor's degree:** Financial Management | **GPA:** 4.5/5.0  
-**Thesis:** Comparative analysis of ARIMA-family models and machine-learning algorithms for forecasting the Russian stock market.
+**Thesis:** [«Сравнительный анализ применения моделей вида ARIMA и алгоритмов машинного обучения для прогнозирования данных фондового рынка России»](https://github.com/vladimirrsmirnovv/MOEX_research_paper).
 
-#### MTS School of Data Analysis | 2025
+#### [MTS School of Data Analysis](https://github.com/vladimirrsmirnovv/MTS_School_of_Data_Analysis) | 2025
 
 **Data Science & Analytics training**  
 Probability and Statistics | A/B Testing | Machine Learning | Applied Data Analytics
 
 #### Selected Courses & Training
 
-- **T-Bank | Risk Analytics Intensive** – 2026
 - **MIPT | Applied Data Analytics Programme** – 2025
 - **Yandex School of Data Analysis | Machine Learning 1 practice sessions** – 2025
 - **Yandex School of Data Analysis | A/B Week** – 2025
