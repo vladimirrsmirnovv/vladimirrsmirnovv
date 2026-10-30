@@ -25,7 +25,15 @@ My interests include **A/B testing, causal inference, statistical inference, mac
 *Shopping SuperApp | Nov 2026 – Present*  
 Product analytics and data-driven decision-making for the Shopping SuperApp product.
 
-**[Gazprom CPS | Analyst Intern](https://github.com/vladimirrsmirnovv/Gazprom_CPS_LLC)**  
+**HSE University | Teaching Assistant**  
+*Faculty of Economic Sciences | Sep–Dec 2026*  
+*Master's Programme in Economics and Economic Policy*  
+**Course:** [Course page](https://www.hse.ru/ma/economicpolicy/courses/1163592263.html)
+
+- Reviewed and assessed student projects as part of the course.
+- Assisted in organizing and conducting course-related educational activities.
+
+**Gazprom CPS | Analyst Intern**  
 *June–August 2024*  
 - Developed an analytical pipeline and drafted project specifications for investigating causal relationships between production parameters and weld-joint quality using linear models.
 - Prepared datasets with Python and Excel, monitored technical implementation, interpreted findings, and authored an [empirical research report](https://github.com/vladimirrsmirnovv/Gazprom_CPS_LLC/blob/main/%D0%93%D0%90%D0%97%D0%9F%D0%A0%D0%9E%D0%9C_%D0%A6%D0%9F%D0%A1_%D0%AD%D0%9C%D0%9F%D0%98%D0%A0%D0%98%D0%A7%D0%95%D0%A1%D0%9A%D0%9E%D0%95_%D0%98%D0%A1%D0%A1%D0%9B%D0%95%D0%94%D0%9E%D0%92%D0%90%D0%9D%D0%98%D0%95_%D0%A1%D0%9C%D0%98%D0%A0%D0%9D%D0%9E%D0%92_%D0%92%D0%95.pdf).
