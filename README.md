@@ -60,8 +60,7 @@ Product analytics and data-driven decision-making for the Shopping SuperApp prod
 **Faculty of Economic Sciences**  
 **Master's programme:** Economics and Economic Policy  
 **Track:** Quantitative Methods in Economics and Finance  
-*Selected coursework:* [Time Series Analysis](https://github.com/vladimirrsmirnovv/Time_Series_ARIMA_GARCH_Markov_Switching) | [Advanced Econometrics I–III](https://github.com/vladimirrsmirnovv/Econometrics_Advanced) | Machine Learning in Economic Research  
-*Related research:* [FAVAR framework replication](https://github.com/vladimirrsmirnovv/FAVAR_paper_replication)
+*Selected coursework:* [Time Series Analysis](https://github.com/vladimirrsmirnovv/Time_Series_ARIMA_GARCH_Markov_Switching) | [Advanced Econometrics I–VI](https://github.com/vladimirrsmirnovv/Econometrics_Advanced) | Machine Learning in Economic Research  
 
 **Faculty of Computer Science**  
 **Master's programme:** Financial Technologies and Data Analysis  
@@ -72,12 +71,12 @@ Product analytics and data-driven decision-making for the Shopping SuperApp prod
 
 **Graduate School of Management**  
 **Bachelor's degree:** Financial Management | **GPA:** 4.5/5.0  
-**Thesis:** [«Сравнительный анализ применения моделей вида ARIMA и алгоритмов машинного обучения для прогнозирования данных фондового рынка России»](https://github.com/vladimirrsmirnovv/MOEX_research_paper).
+**Thesis:** [Comparative analysis of ARIMA-family models and machine-learning algorithms for forecasting the Russian stock market](https://github.com/vladimirrsmirnovv/MOEX_research_paper).
 
 #### [MTS School of Data Analysis](https://github.com/vladimirrsmirnovv/MTS_School_of_Data_Analysis) | 2025
 
 **Data Science & Analytics training**  
-Probability and Statistics | A/B Testing | Machine Learning | Applied Data Analytics
+Probability and Statistics | A/B Testing | Machine Learning | Neural Networks | Recommender Systems | Time Series | MLOps | Apache Spark
 
 #### Selected Courses & Training
 
