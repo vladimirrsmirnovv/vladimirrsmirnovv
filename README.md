@@ -42,8 +42,8 @@ Product analytics and data-driven decision-making for the Shopping SuperApp prod
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-242C38?style=flat-square&logo=scikitlearn&logoColor=79C0FF) ![CatBoost](https://img.shields.io/badge/CatBoost-242C38?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-242C38?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-242C38?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-242C38?style=flat-square&logo=pytorch&logoColor=79C0FF)
 
 **Statistics & Econometrics**  
-🧪 **Experimentation:** [A/B Testing](https://github.com/vladimirrsmirnovv/AB_pipeline) | Bootstrap | CUPED | Causal Inference  
-📈 **Time Series:** SARIMAX | SVAR
+🧪 **Experimentation:** [A/B Testing](https://github.com/vladimirrsmirnovv/AB_pipeline) | Causal Inference | CUPED  
+📈 **Time Series:** SARIMAX | SVAR | [GARCH](https://github.com/vladimirrsmirnovv/Time_Series_ARIMA_GARCH_Markov_Switching) | [Markov Switching Models](https://github.com/vladimirrsmirnovv/Time_Series_ARIMA_GARCH_Markov_Switching)
 
 **Tools & BI**  
 ![Git](https://img.shields.io/badge/Git-242C38?style=flat-square&logo=git&logoColor=79C0FF) ![Docker](https://img.shields.io/badge/Docker-242C38?style=flat-square&logo=docker&logoColor=79C0FF) ![Jupyter](https://img.shields.io/badge/Jupyter-242C38?style=flat-square&logo=jupyter&logoColor=79C0FF) ![Power BI](https://img.shields.io/badge/Power_BI-242C38?style=flat-square&logo=powerbi&logoColor=79C0FF) ![Tableau](https://img.shields.io/badge/Tableau-242C38?style=flat-square&logo=tableau&logoColor=79C0FF) ![Redash](https://img.shields.io/badge/Redash-242C38?style=flat-square)
@@ -51,7 +51,7 @@ Product analytics and data-driven decision-making for the Shopping SuperApp prod
 ### 🏆 Data Science Competitions
 
 - **[Growth Gradient: X5 Tech × HSE](https://github.com/vladimirrsmirnovv/X5_Tech_Contest_Time_Series) (2026):** Finalist | **8th / 210 teams**
-- **E-CUP Students: Ozon Tech (2026):** Search User Value track | **Public leaderboard: 20th / 312** | **Private leaderboard: 33rd / 312**
+- **[E-CUP Students: Ozon Tech](https://github.com/vladimirrsmirnovv/E_CUP_Students_Ozon_Tech) (2026):** Search User Value track | **Public leaderboard: 20th / 312** | **Private leaderboard: 33rd / 312**
 
 ### 🎓 Education
 
@@ -65,7 +65,7 @@ Product analytics and data-driven decision-making for the Shopping SuperApp prod
 **Faculty of Computer Science**  
 **Master's programme:** Financial Technologies and Data Analysis  
 **Study format:** Individual study plan  
-*Selected coursework:* Deep Learning | Bayesian Methods for Data Analysis | Stochastic Processes and Stochastic Differential Equations | Reinforcement Learning
+*Selected coursework:* [Deep Learning](https://github.com/vladimirrsmirnovv/Deep_Learning_fcs_hse_fintech) | Bayesian Methods for Data Analysis | Stochastic Processes and Stochastic Differential Equations | Reinforcement Learning
 
 #### St. Petersburg State University | 2021–2025
 
@@ -73,9 +73,9 @@ Product analytics and data-driven decision-making for the Shopping SuperApp prod
 **Bachelor's degree:** Financial Management | **GPA:** 4.5/5.0  
 **Thesis:** [Comparative analysis of ARIMA-family models and machine-learning algorithms for forecasting the Russian stock market](https://github.com/vladimirrsmirnovv/MOEX_research_paper).
 
-#### [MTS School of Data Analysis](https://github.com/vladimirrsmirnovv/MTS_School_of_Data_Analysis) | 2025
+#### MTS School of Data Analysis | 2025
 
-**Data Science & Analytics training**  
+**[Data Science & Analytics training](https://github.com/vladimirrsmirnovv/MTS_School_of_Data_Analysis)**  
 Probability and Statistics | A/B Testing | Machine Learning | Neural Networks | Recommender Systems | Time Series | MLOps | Apache Spark
 
 #### Selected Courses & Training
