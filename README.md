@@ -6,7 +6,10 @@
 
 A/B Testing & Causal Inference | Machine Learning & Deep Learning | Econometrics | Time Series
 
-[Email](mailto:smirnovve2003@gmail.com) | [Telegram](https://t.me/vladimirrsmirnovv)
+<p>
+  <a href="mailto:smirnovve2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-174A78?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/vladimirrsmirnovv"><img src="https://img.shields.io/badge/TELEGRAM-2F81F7?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
+</p>
 
 ---
 
@@ -46,9 +49,9 @@ A/B Testing | Bootstrap | CUPED | Causal Inference | SARIMAX | SVAR
 
 ### 🏆 Data Science Competitions
 
-- **X5 Tech × HSE – Growth Gradient (2026):** finalist | **8th / 210** teams
-- **Ozon Tech – E-CUP Students (2026):** search user value track | **20th / 312** (public) | **33rd / 312** (private)
-- **Banana Capital Fund Hackathon (2025):** **winner** | Financial market price movement forecasting track
+- **Growth Gradient: X5 Tech × HSE (2026):** Finalist | **8th / 210 teams**
+- **E-CUP Students: Ozon Tech (2026):** Search User Value track | **Public leaderboard: 20th / 312** | **Private leaderboard: 33rd / 312**
+- **Banana Capital Fund Hackathon (2025):** **Winner** | Financial market price movement forecasting track
 
 ### 🎓 Education
 
@@ -86,10 +89,10 @@ Probability and Statistics | A/B Testing | Machine Learning | Applied Data Analy
 
 <div align="center">
 
-<img width="560" src="https://streak-stats.demolab.com/?user=vladimirrsmirnovv&amp;theme=dark&amp;background=0D1117&amp;border=60738A&amp;stroke=53667B&amp;ring=4999E8&amp;fire=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=79C0FF&amp;sideLabels=E6EDF3&amp;dates=CCD6E2&amp;card_width=560&amp;card_height=200&amp;disable_animations=true" alt="GitHub contribution streak" />
+<img width="560" src="https://streak-stats.demolab.com/?user=vladimirrsmirnovv&amp;theme=dark&amp;background=0D1117&amp;border=83ADD7&amp;stroke=6E91B9&amp;ring=58A6FF&amp;fire=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=79C0FF&amp;sideLabels=F0F6FC&amp;dates=C4D7EA&amp;card_width=560&amp;card_height=200&amp;disable_animations=true" alt="GitHub contribution streak" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vladimirrsmirnovv&amp;style=flat-square&amp;color=1F6FEB&amp;label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vladimirrsmirnovv&amp;style=flat-square&amp;color=2F81F7&amp;label=Profile+views" alt="Profile views" />
 </p>
 
 </div>
